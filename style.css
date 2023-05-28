@@ -218,16 +218,73 @@ button{
     }
     .cardo{
         width: 80%;
+        margin-top: 10%;
+        margin-left: 3%;
+        
     }
     .cardt{
         width: 80%;
+        margin-top: 10%;
+        
+        margin-right: 3%;
     }
     p{
         text-align: center;
         padding-right: 2%;
     }
-    h2{
-        margin-right: 20%;
+    .cardo h2{
+        margin-left: -4%;
+        font-size: 26px;
     }
+    .score{ 
+        
+        border-radius: 80%;
+        height: 30%;
+        width: 60%;
+        margin: 0 auto;  
+    }
+    h1{
+        padding-left: 26%;
+        padding-top: 26%;
+        font-weight: 600;
+        font-size: 46px;
+    }
+    #p{
+        margin-left: 1%;
+        margin-top: -38%;
+        font-size: 12px;
+       
+    }
+    .visual p{
+        padding-left: 20%;
+        padding-top: 4%;
+        
+        font-weight: bold;
+    }
+    .reaction p{
+        padding-left: 20%;
+        padding-top: 4%;
+        
+        font-weight: bold;
+    }
+    .verbal p{
+        padding-left: 20%;
+        padding-top: 4%;
+     
+        font-weight: bold;
+    }
+    .memory p{
+        padding-left: 20%;
+        padding-top: 4%;
+        
+        font-weight: bold;
+    }
+  h4{
+    margin-left: 28%;
+    
+}
+  h2{
+    padding-left: 34%;
+    padding-top: -2%;
    
 }
