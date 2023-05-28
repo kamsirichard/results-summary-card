@@ -211,3 +211,23 @@ button{
     border-color: none;
     color: aliceblue;
 }
+
+@media  (max-width: 779px ) {
+    cards{
+        padding-top: 60%;
+    }
+    .cardo{
+        width: 80%;
+    }
+    .cardt{
+        width: 80%;
+    }
+    p{
+        text-align: center;
+        padding-right: 2%;
+    }
+    h2{
+        margin-right: 20%;
+    }
+   
+}
