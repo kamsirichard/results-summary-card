@@ -227,9 +227,11 @@ button{
         
         margin-right: 3%;
     }
-    p{
-        text-align: center;
+    .cardo p{
         padding-right: 2%;
+        word-spacing: 2%;
+        font-size: larger;
+        color: rgba(240, 248, 255, 0.545);
     }
     .cardo h2{
         margin-left: 5%;
@@ -260,27 +262,39 @@ button{
        
     }
     .visual p{
-        padding-left: 20%;
+        padding-left: 49%;
         padding-top: 4%;
         color: rgb(157, 159, 160);
         font-weight: bold;
     }
     .reaction p{
-        padding-left: 20%;
+        padding-left: 43%;
         padding-top: 4%;
         color: rgb(157, 159, 160);
         font-weight: bold;
     }
     .verbal p{
-        padding-left: 20%;
+        padding-left: 48%;
         padding-top: 4%;
         color: rgb(157, 159, 160);
         font-weight: bold;
     }
     .memory p{
-        padding-left: 20%;
+        padding-left: 45%;
         padding-top: 4%;
         color: rgb(157, 159, 160);
         font-weight: bold;
+    }
+    .reaction img{
+        padding-top: 6%;
+    }
+    .verbal img{
+        padding-top: 6%;
+    }
+    .memory img{
+        padding-top: 6%;
+    }
+    .visual img{
+        padding-top: 6%;
     }
 }
