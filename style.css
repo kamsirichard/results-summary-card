@@ -23,6 +23,7 @@ body{
    
 }
 .cards{
+    margin-top:10%;
     display: flex;
     margin: 0 auto;
     margin-left:39%;
